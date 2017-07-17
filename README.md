@@ -27,3 +27,9 @@ brew list | grep 'boost'
 brew tap homebrew/science
 brew install opencv
 ```
+
+## Installing the conda environment
+
+After cloning this repo:
+
+> conda env create -f cv.yml
