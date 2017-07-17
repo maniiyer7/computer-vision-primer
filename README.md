@@ -32,4 +32,6 @@ brew install opencv
 
 After cloning this repo:
 
-> conda env create -f cv.yml
+```bash
+conda env create -f cv.yml
+```
